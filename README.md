@@ -1,12 +1,13 @@
 # netflix_app
 
 
-
-
+This project is a GUI clone of netflix for android , composed of home , comming soon , search ,download sections, 
 
 https://user-images.githubusercontent.com/99340578/218301235-faf06189-c41e-41cd-af88-020ce49100a3.mp4 
 
 <img src="https://user-images.githubusercontent.com/99340578/218300811-024c30c2-cc66-4be2-a5bd-6450cc15563b.png" width="250" height="500"> <img src="https://user-images.githubusercontent.com/99340578/218300851-ab70a3fb-a766-4dec-a39d-5952ad372546.png" width="250" height="500">
+
+
 
 
 A new Flutter project.
